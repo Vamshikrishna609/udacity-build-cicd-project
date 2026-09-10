@@ -97,6 +97,7 @@ cd setup
 ./init.sh
 ```
 
+
 2. The script will download a tool, add the IAM user ARN to the authentication configuration, indicate a `Done` status, then it'll remove the tool
 
 ## Dependencies
